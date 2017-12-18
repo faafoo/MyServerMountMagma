@@ -1,1 +1,0 @@
-{"runners":{"configs":{},"default":"project:/MinecraftServer"},"builders":{"configs":{},"default":"maven"},"mixinTypes":["deployable"],"type":"maven","attributes":{"languageVersion":["1.6"],"update":["false"],"language":["java"]},"description":"{\"factoryId\":\"3exu9vghn0vkv2sf\",\"title\":\"Volcano of the Shadows\"}"}
